@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mi_list_country"
+        android:title="Country List"
+        tools:ignore="HardcodedText" />
+
+    <item android:id="@+id/mi_card_country"
+        android:title="Card Country"
+        tools:ignore="HardcodedText" />
+
+
+</menu>
